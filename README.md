@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on few Apps
+- 🔭 I’m currently working on few Flutter Applications
 - 🌱 I’m currently learning Android Development , new Coding Skills😃😃 and College stuff🥱
 - 👯 I’m looking to collaborate on Problem Setting Questions for Competitive Coding (I am familar with using <a href = "https://polygon.codeforces.com">Polygon</a>). 
 - 🤔 I’m looking for help with any Android Developemnt opportunity. 
